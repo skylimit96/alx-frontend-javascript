@@ -1,7 +1,7 @@
 /**
  * Retrieves a list of students.
- * @author Amine SEHLAOUI <https://github.com/skylimit96>
- * @returns {{id: Number, firstName: String, location: String}[]}
+ * author Amine SEHLAOUI <https://github.com/skylimit96>
+ * returns {{id: Number, firstName: String, location: String}[]}
  */
 export default function getListStudents() {
     return [
